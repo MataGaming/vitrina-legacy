@@ -1,3 +1,5 @@
+> This is a fork of the last non-paid version incase the original repo is removed at a later date
+
 > Note:
 >
 > This is the code for the legacy version. You can still submit issues here, I will read them.
